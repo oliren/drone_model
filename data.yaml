@@ -1,0 +1,7 @@
+path: /home/oliren/dev/drone_model/data
+train: train/images
+val: validation/images
+
+nc: 1
+
+names: ["drone"]
